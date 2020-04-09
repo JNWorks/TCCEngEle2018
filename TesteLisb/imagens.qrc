@@ -1,0 +1,7 @@
+<RCC>
+    <qresource prefix="/pics">
+        <file>Sensor4frentet.png</file>
+        <file>greenAlert.png</file>
+        <file>redAlert.png</file>
+    </qresource>
+</RCC>
